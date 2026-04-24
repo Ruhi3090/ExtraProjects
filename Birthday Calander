@@ -1,0 +1,5 @@
+Aarav="Aarav-23rd Sep"
+Rajesh="Rajesh-14th october"
+Kriti="Kriti-30th december"
+Saanvi="Saanvi-4th August"
+print(Aarav,Rajesh,Kriti,Saanvi)
