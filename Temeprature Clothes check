@@ -1,0 +1,11 @@
+temp=int(input("Enter the temperature: "))
+if temp<=5:
+    print("Wear:Thermal socks, gloves, a beanie, and a scarf")
+elif temp<=12:
+    print("Wear:Long-sleeve shirt, a medium-weight sweater, and a light jacket or wool coat.")
+elif temp<=20:
+    print("Wear:Short-sleeve or long-sleeve shirt without a heavy outer jacket.")
+elif temp<=25:
+    print("Wear:ort sleeves, light pants, or skirts.")
+else:
+    print("Wear: Shorts, tank tops, or sundresses.")
