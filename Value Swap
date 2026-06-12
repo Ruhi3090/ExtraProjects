@@ -1,0 +1,10 @@
+a=int(input("Enter the mathamatical value: "))
+b=int(input("Enter the second mathamatical value: "))
+c=int(input("Enter the third mathamatical value: "))
+d=a
+a=int(input("Enter what you wnated to swap the first value with"))
+b=int(input("Enter what you wanted to swap the second value with"))
+c=int(input("Enter what you wanted to swap the second value with"))
+print("The first value is",a)
+print("The second value is",b)
+print("The third value is",c)
