@@ -1,0 +1,4 @@
+print("Hello user")
+a= input("Enter a character: ")
+ascii_value = ord(a)
+print(f"The ASCII value of '{a}' is {ascii_value}")
