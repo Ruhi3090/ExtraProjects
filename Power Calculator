@@ -1,0 +1,6 @@
+print("Hello user, Welcome to the Power Calculator")
+num=int(input("Enter the number you want to calculate with here: "))
+power=int(input("Enter the power value you want: "))
+ans=num**power
+print(ans)
+print("Hello user, hope you had a good time using this calculator and found it useful")
