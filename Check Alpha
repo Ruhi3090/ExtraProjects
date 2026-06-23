@@ -1,0 +1,6 @@
+print("Whats's up user!")
+alp=input("Enter any character: ")
+if alp.isalpha():
+    print("That's an Alphabet")
+else:
+    print("Thats not an Alphabet")
